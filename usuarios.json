@@ -1,0 +1,30 @@
+{
+  "nombre": "Pedro",
+  "apellido": "Ramírez",
+  "sexo": "Masculino",
+  "edad": 22,
+  "correo": "pedro@example.com",
+  "contraseña": "clave789",
+  "conocimientos": ["Css", "HTML"],
+  "admin": false
+}
+{
+  "nombre": "María",
+  "apellido": "Gómez",
+  "sexo": "Femenino",
+  "edad": 25,
+  "correo": "maria@example.com",
+  "contraseña": "contraseña456",
+  "conocimientos": ["JavaScript", "Css", "Vue.js"],
+  "admin": true
+}
+{
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "sexo": "Masculino",
+  "edad": 30,
+  "correo": "juan@example.com",
+  "contraseña": "secreta123",
+  "conocimientos": ["HTML", "CSS"],
+  "admin": false
+}
